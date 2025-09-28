@@ -9,10 +9,10 @@
     height: auto;
 }
 
-.navlinks a{
-    gap: 1rem;
+.navlinks {
+    gap: 10px;
 }
-.navlinks a:hover{
+.navlinks:hover{
     color: rgb(33, 32, 32);
 }
 
